@@ -11,14 +11,12 @@
 		5E3F9B831AEA032F00CEC555 /* UIColor+wwdc.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E3F9B821AEA032F00CEC555 /* UIColor+wwdc.m */; };
 		5E543FA61AEA0DD60015E9C6 /* school.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E543FA51AEA0DD60015E9C6 /* school.png */; };
 		5E543FA81AEA0DDB0015E9C6 /* work.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E543FA71AEA0DDB0015E9C6 /* work.png */; };
-		5E543FAA1AEA0DE30015E9C6 /* projects.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E543FA91AEA0DE30015E9C6 /* projects.png */; };
 		5E543FAC1AEA111C0015E9C6 /* SignPainter-HouseScript.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5E543FAB1AEA109A0015E9C6 /* SignPainter-HouseScript.ttf */; };
 		5E543FB01AEA132B0015E9C6 /* AMPopTip.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E543FAF1AEA132B0015E9C6 /* AMPopTip.m */; };
 		5E543FB31AEA177B0015E9C6 /* UIView+MaterialDesign.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E543FB21AEA177B0015E9C6 /* UIView+MaterialDesign.m */; };
 		5E5613BC1AEDA5D400A5BE1F /* bighero.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E5613BB1AEDA5D400A5BE1F /* bighero.png */; };
 		5E60A9601AEC7258009FF5D8 /* cal@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E60A95F1AEC7258009FF5D8 /* cal@2x.png */; };
 		5E60A9621AECAC9D009FF5D8 /* cal-logo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E60A9611AECAC9D009FF5D8 /* cal-logo@2x.png */; };
-		5E60A9641AECADD3009FF5D8 /* sideprojects.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E60A9631AECADD3009FF5D8 /* sideprojects.png */; };
 		5E60A9691AECAEE6009FF5D8 /* pink-projects.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E60A9681AECAEE6009FF5D8 /* pink-projects.png */; };
 		5E60A96C1AECB0B2009FF5D8 /* InformationModal.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E60A96B1AECB0B2009FF5D8 /* InformationModal.m */; };
 		5E60A96F1AED6872009FF5D8 /* notesnap@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E60A96E1AED6872009FF5D8 /* notesnap@2x.png */; };
@@ -30,7 +28,6 @@
 		5E60A9881AED6EFC009FF5D8 /* BFPaperView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E60A9871AED6EFC009FF5D8 /* BFPaperView.m */; };
 		5EA4CE6C1AEA8BEF0027214E /* InformationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA4CE6B1AEA8BEF0027214E /* InformationViewController.swift */; };
 		5EA4CE771AEA90020027214E /* SanFranciscoDisplay-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5EA4CE761AEA90020027214E /* SanFranciscoDisplay-Thin.otf */; };
-		5EA4CE7B1AEA915D0027214E /* backButtonArrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EA4CE7A1AEA915D0027214E /* backButtonArrow.png */; };
 		5EA4CE7D1AEA924C0027214E /* closeButtonAction.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EA4CE7C1AEA924C0027214E /* closeButtonAction.png */; };
 		5EA4CE801AEA92C20027214E /* CardDisplayViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EA4CE7F1AEA92C20027214E /* CardDisplayViewController.m */; };
 		5EBD283D1AED70010041918C /* UIColor+BFPaperColors.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EBD283B1AED70010041918C /* UIColor+BFPaperColors.m */; };
@@ -66,7 +63,6 @@
 		5E3F9B821AEA032F00CEC555 /* UIColor+wwdc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+wwdc.m"; sourceTree = "<group>"; };
 		5E543FA51AEA0DD60015E9C6 /* school.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = school.png; sourceTree = "<group>"; };
 		5E543FA71AEA0DDB0015E9C6 /* work.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = work.png; sourceTree = "<group>"; };
-		5E543FA91AEA0DE30015E9C6 /* projects.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = projects.png; sourceTree = "<group>"; };
 		5E543FAB1AEA109A0015E9C6 /* SignPainter-HouseScript.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SignPainter-HouseScript.ttf"; sourceTree = "<group>"; };
 		5E543FAE1AEA132B0015E9C6 /* AMPopTip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMPopTip.h; sourceTree = "<group>"; };
 		5E543FAF1AEA132B0015E9C6 /* AMPopTip.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AMPopTip.m; sourceTree = "<group>"; };
@@ -76,7 +72,6 @@
 		5E60A95E1AEC6AEB009FF5D8 /* AppUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppUtils.h; sourceTree = "<group>"; };
 		5E60A95F1AEC7258009FF5D8 /* cal@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cal@2x.png"; sourceTree = "<group>"; };
 		5E60A9611AECAC9D009FF5D8 /* cal-logo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cal-logo@2x.png"; sourceTree = "<group>"; };
-		5E60A9631AECADD3009FF5D8 /* sideprojects.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sideprojects.png; sourceTree = "<group>"; };
 		5E60A9681AECAEE6009FF5D8 /* pink-projects.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pink-projects.png"; sourceTree = "<group>"; };
 		5E60A96A1AECB0B2009FF5D8 /* InformationModal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InformationModal.h; sourceTree = "<group>"; };
 		5E60A96B1AECB0B2009FF5D8 /* InformationModal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InformationModal.m; sourceTree = "<group>"; };
@@ -93,7 +88,6 @@
 		5EA4CE6A1AEA8BEF0027214E /* ash-wwdc-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ash-wwdc-Bridging-Header.h"; sourceTree = "<group>"; };
 		5EA4CE6B1AEA8BEF0027214E /* InformationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InformationViewController.swift; sourceTree = "<group>"; };
 		5EA4CE761AEA90020027214E /* SanFranciscoDisplay-Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SanFranciscoDisplay-Thin.otf"; sourceTree = "<group>"; };
-		5EA4CE7A1AEA915D0027214E /* backButtonArrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backButtonArrow.png; sourceTree = "<group>"; };
 		5EA4CE7C1AEA924C0027214E /* closeButtonAction.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = closeButtonAction.png; sourceTree = "<group>"; };
 		5EA4CE7E1AEA92C20027214E /* CardDisplayViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CardDisplayViewController.h; sourceTree = "<group>"; };
 		5EA4CE7F1AEA92C20027214E /* CardDisplayViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CardDisplayViewController.m; sourceTree = "<group>"; };
@@ -234,16 +228,13 @@
 				5E60A9681AECAEE6009FF5D8 /* pink-projects.png */,
 				5E60A9611AECAC9D009FF5D8 /* cal-logo@2x.png */,
 				5EBD28441AED74F10041918C /* open@2x.png */,
-				5E60A9631AECADD3009FF5D8 /* sideprojects.png */,
 				5E60A95F1AEC7258009FF5D8 /* cal@2x.png */,
 				5EA4CE7C1AEA924C0027214E /* closeButtonAction.png */,
 				5E60A97E1AED6E44009FF5D8 /* 1sb@2x.png */,
-				5EA4CE7A1AEA915D0027214E /* backButtonArrow.png */,
 				5EA4CE761AEA90020027214E /* SanFranciscoDisplay-Thin.otf */,
 				5E543FAB1AEA109A0015E9C6 /* SignPainter-HouseScript.ttf */,
 				5E543FA71AEA0DDB0015E9C6 /* work.png */,
 				5E543FA51AEA0DD60015E9C6 /* school.png */,
-				5E543FA91AEA0DE30015E9C6 /* projects.png */,
 				5EFCB3321ADEAF1300E7312A /* Info.plist */,
 				5EFCB3331ADEAF1300E7312A /* main.m */,
 			);
@@ -314,9 +305,7 @@
 				5EFCB33D1ADEAF1300E7312A /* Main.storyboard in Resources */,
 				5EBD28471AED7C280041918C /* st@2x.png in Resources */,
 				5EBD28431AED72E90041918C /* ischoolerz@2x.png in Resources */,
-				5E543FAA1AEA0DE30015E9C6 /* projects.png in Resources */,
 				5EFCB3421ADEAF1300E7312A /* LaunchScreen.xib in Resources */,
-				5E60A9641AECADD3009FF5D8 /* sideprojects.png in Resources */,
 				5E543FAC1AEA111C0015E9C6 /* SignPainter-HouseScript.ttf in Resources */,
 				5EBD283F1AED70EB0041918C /* kiip@2x.png in Resources */,
 				5E60A9731AED6B91009FF5D8 /* rive@2x.png in Resources */,
@@ -327,7 +316,6 @@
 				5E60A9711AED6A1D009FF5D8 /* sidechat@2x.png in Resources */,
 				5E60A97F1AED6E44009FF5D8 /* 1sb@2x.png in Resources */,
 				5E543FA61AEA0DD60015E9C6 /* school.png in Resources */,
-				5EA4CE7B1AEA915D0027214E /* backButtonArrow.png in Resources */,
 				5E60A9691AECAEE6009FF5D8 /* pink-projects.png in Resources */,
 				5E5613BC1AEDA5D400A5BE1F /* bighero.png in Resources */,
 				5E1423D31AEDA74A00A1F271 /* faceImage.png in Resources */,
